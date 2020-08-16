@@ -4,7 +4,9 @@ The `#listening-party` channel is meant to be a place to share what you're liste
 
 ## The How-To
 
-So, you want to share what you've been listening to with the Corgis ![Party Corgi](https://cdn.discordapp.com/emojis/634652211493732360.gif?v=1)
+So, you want to share what you've been listening to with the Corgis. ![Party Corgi](https://cdn.discordapp.com/emojis/634652211493732360.gif?v=1) 
+
+<p>&nbsp;</p> 
 
 This guide will make two assumptions:
 
@@ -17,14 +19,19 @@ This guide will make two assumptions:
 
 If you're listening to Spotify, Discord will see that and you'll be prompted with this little call to action. 
 
+<p>&nbsp;</p> 
+
 ![Browser confirmation on connection](https://i.imgur.com/u3pfCLo.jpg) 
 
 Clicking the connect button will bring up a browser window with a login screen, after logging in, you should be met with this. 
 
+<p>&nbsp;</p> 
 
 ![Spotify settings under Connections tab in User Settings](https://i.imgur.com/MXFp89F.jpg) 
 
 You can confirm you're connected by visiting the `Connections` tab under `User Settings` in Discord.
+
+<p>&nbsp;</p> 
 
 **Congrats**! You're able to move onto the next step. 
 
@@ -33,18 +40,25 @@ You can confirm you're connected by visiting the `Connections` tab under `User S
 
 To get started, have something playing in your Spotify desktop app. Now, in the `#listening-party` channel, you should see a green play arrow on the `+` button to the left of the text input box. 
 
+<p>&nbsp;</p> 
+
 ![Invite #channel to listen to Spotify](https://i.imgur.com/vlmj5QI.jpg) 
 
 In the pop up, you should see "Invite `#channel-name` to Listen to Spotify". Once you click that, it should post a share link to that channel. It should look something like... 
+
+<p>&nbsp;</p> 
 
 ![Success! You're sharing your music with the homies](https://i.imgur.com/c59opKL.png) 
 
 This! Congrats. You're sharing your tunes with the homies.
 
+<p>&nbsp;</p> 
+
 ![You can see who is streaming their music in a voice channel by hovering your cursor over it](https://i.imgur.com/hnLfDhV.jpg) 
 
 Another little nice-to-have, is this; the pop up when you hover over a voice channel. This will lead into some ideas I have for the [roadmap](#the-roadmap) of the channel.
 
+<p>&nbsp;</p> 
 
 **Please post your playlist while streaming so that those who don't pay for Premium can follow along in some capacity!**
 
@@ -53,14 +67,20 @@ Another little nice-to-have, is this; the pop up when you hover over a voice cha
 
 So I have a few ideas for the channel moving forward, but I'd like input from all of you!
 
+<p>&nbsp;</p> 
+
 In no particular order:
 
 - A weekly book club-style listening party Friday/Saturday evenings. We'd have a poll to pick an album to listen to throughout the week and have a discussion about it in `#voice-03`. The goal here is to broaden our horizons on our perceptions of genres (read: Opera, Country, etc.). I have yet to work out all of the logistics here, so feedback would be greatly appreciated!
 - A monthly online 'concert'. I imagine there are many among us who are both musically and technically inclined. I'd love to allow for the community to perform/show off what they've been working on! If there's enough interest, I'd love to try and get this organized.
 - Build a bot that would auto-pin the most recently shared `Spotify Invite` to the channel. (I have literally zero experience with this and would love a hand!).
 
+<p>&nbsp;</p> 
 
 That's all for now, folks! Please feel free to shoot me a DM in Discord or fire off an [e-mail](mailto:me@alexlow.dev) with ideas, concerns, or a fresh-to-death playlist!
 
+<p>&nbsp;</p> 
+
 Xoxo,
+
 Alex
