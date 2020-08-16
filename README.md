@@ -40,6 +40,8 @@ You can confirm you're connected by visiting the `Connections` tab under `User S
 
 To get started, have something playing in your Spotify desktop app. Now, in the `#listening-party` channel, you should see a green play arrow on the `+` button to the left of the text input box. 
 
+If the green play arrow does not appear, make sure your Discord status is set to `Online`.
+
 <p>&nbsp;</p> 
 
 ![Invite #channel to listen to Spotify](https://i.imgur.com/vlmj5QI.jpg) 
