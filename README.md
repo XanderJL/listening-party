@@ -1,10 +1,10 @@
-# Listening Party Intro
+# The Party Corgi Listening Party
 
 The `#listening-party` channel is meant to be a place to share what you're listening to throughout your workday, while you stream, etc. Think of it as user-submitted radio.
 
 ## The How-To
 
-So, you want to share what you've been listening to with the Corgis :partycorgi:
+So, you want to share what you've been listening to with the Corgis ![Party Corgi](https://cdn.discordapp.com/emojis/634652211493732360.gif?v=1)
 
 This guide will make two assumptions:
 
@@ -46,7 +46,7 @@ This! Congrats. You're sharing your tunes with the homies.
 Another little nice-to-have, is this; the pop up when you hover over a voice channel. This will lead into some ideas I have for the [roadmap](#the-roadmap) of the channel.
 
 
-Please post your playlist while streaming so that those who don't pay for Premium can follow along in some capacity!
+**Please post your playlist while streaming so that those who don't pay for Premium can follow along in some capacity!**
 
 ---
 ## The Roadmap
