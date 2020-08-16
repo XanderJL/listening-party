@@ -8,11 +8,12 @@ So, you want to share what you've been listening to with the Corgis. ![Party Cor
 
 <p>&nbsp;</p> 
 
-This guide will make two assumptions:
+**This guide will make two assumptions**:
 
 1. You have a [Spotify Premium](https://www.spotify.com/ca-en/premium/?utm_source=ca-en_brand_contextual_text&utm_medium=paidsearch&utm_campaign=alwayson_ucanz_ca_premiumbusiness_premium_brand+contextual+text+exact+ca-en+google&gclid=Cj0KCQjwsuP5BRCoARIsAPtX_wEFLpe0dw0FLdN3lA36GWWz0Q8oUQD_Fi8j7bXI3xJqwKnCO_yujMsaAuKXEALw_wcB&gclsrc=aw.ds) account.
 2. You're using Discord and Spotify in tandem on a desktop.
 
+<p>&nbsp;</p> 
 
 ### Let's get connected
 ![Connect your Spotify account CTA](https://i.imgur.com/1fTECj0.jpg) 
